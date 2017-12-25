@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KEOAS</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="permission_camera_denied">permission denied.</string>
+    <string name="permission_camera_never_askagain">never ask again.</string>
+
+    <string name="button_allow">OK</string>
+    <string name="button_deny">refuse</string>
+
+    <string name="permission_camera_rationale">你别拒绝了哦，很严重的</string>
+</resources>
